@@ -1,0 +1,19 @@
+{
+  "name": "validator",
+  "version": "1.0.0",
+  "description": "App para validar la eficiencia del nuevo Luis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "lsizaguirre@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "dotenv": "^6.0.0",
+    "line-by-line": "^0.1.6",
+    "request": "^2.87.0",
+    "sleep-promise": "^8.0.1"
+  }
+}
