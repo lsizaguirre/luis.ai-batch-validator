@@ -48,4 +48,4 @@ node index > out.txt
 
 ## Authors
 
-* **Luis Izaguirre** - *@lsizaguirre* - [GitHub](https://github.com/lsizaguirre)it/)
+* **Luis Izaguirre** - *@lsizaguirre* - [GitHub](https://github.com/lsizaguirre)
