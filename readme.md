@@ -18,6 +18,8 @@ Necesitas tener un .env file con las siguientes definiciones:
 LuisAppId=[YOUR_LUIS_APP_ID]
 LuisAPIKey=[YOUR_LUIS_API_KEY]
 LuisAPIHostName=eastus2.api.cognitive.microsoft.com
+
+RequestDelay=200
 ```
 
 ### Installing
